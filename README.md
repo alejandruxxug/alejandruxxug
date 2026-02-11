@@ -9,13 +9,14 @@
 
 ## 🎮 Player Stats
 
-**Class:** Dev 
+**Class:** Dev  
 **Main Skills:**  
 - Java (Hell)
 - JavaScript
 - React
-- Firebase / Cloud
+- Firebase / Google Clous
 - Automation (n8n)
+- TensorFlow JS
 
 **Side Quest:**  
 Building systems that actually make sense. 💋
