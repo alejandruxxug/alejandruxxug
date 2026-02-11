@@ -1,6 +1,6 @@
 # 👾 Alejandro Urrego Giraldo
 
-🎓 Computer Science 
+🎓 Computer Science  
 🎮 Aspiring Game Dev  
 🌐 Web App Builder  
 🇨🇴 Native Spanish Speaker | Fluent in English  
