@@ -1,6 +1,7 @@
 # 👾 Alejandro Urrego Giraldo
 
-🎓 Systems Engineering Student  
+🎓 Computer Science (Ingenieria en Sistemas y computación at EIA University 💋)
+🫆 CTO at Royal Software SAS
 🎮 Aspiring Game Developer  
 🌐 Web App Builder  
 🇨🇴 Native Spanish Speaker | Fluent in English  
