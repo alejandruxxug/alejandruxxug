@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👾 Alejandro Urrego Giraldo
 
-<!--
-**alejandruxxug/alejandruxxug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering Student  
+🎮 Aspiring Game Developer  
+🌐 Web App Builder  
+🇨🇴 Native Spanish Speaker | Fluent in English  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Player Stats
+
+**Class:** Dev 
+**Main Skills:**  
+- Java (Hell)
+- JavaScript
+- React
+- Firebase / Cloud
+- Automation (n8n)
+
+**Side Quest:**  
+Building systems that actually make sense. 💋
+
+---
+
+## 🚀 Current Mission
+
+- Develop videogames from scratch  
+- Build scalable web apps  
+- Master clean architecture  
+- Defeat production bugs
+- Always slay  
+
+---
+
+## 🧠 Mindset
+
+> Think in systems. Build with purpose. Refactor without fear.
+
+Debugging = boss fight.  
+Architecture = strategy mode.  
+Git = time travel device.
+
+---
+
