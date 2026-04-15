@@ -14,7 +14,7 @@
 - Java (Hell)
 - JavaScript
 - React
-- Firebase / Google Clous
+- Firebase / Google Cloud
 - Automation (n8n)
 - TensorFlow JS
 
